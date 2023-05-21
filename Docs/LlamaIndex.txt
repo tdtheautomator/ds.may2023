@@ -1,0 +1,10 @@
+LlamaIndex is a simple, flexible interface between your external data and LLMs. It provides the following tools in an easy-to-use fashion: Offers data connectors to your existing data sources and data formats (API's, PDF's, docs, SQL, etc.) Provides indices over your unstructured and structured data for use with LLM's.
+
+At its core, LlamaIndex contains a toolkit designed to easily connect LLM’s with your external data. LlamaIndex helps to provide the following:
+- A set of data structures that allow you to index your data for various LLM tasks, and remove concerns over prompt size limitations.
+- Data connectors to your common data sources (Google Docs, Slack, etc.).
+- Cost transparency + tools that reduce cost while increasing performance.
+Each data structure offers distinct use cases and a variety of customizable parameters. These indices can then be queried in a general purpose manner, in order to achieve any task that you would typically achieve with an LLM:
+- Question-Answering
+- Summarization
+- Text Generation (Stories, TODO’s, emails, etc.)

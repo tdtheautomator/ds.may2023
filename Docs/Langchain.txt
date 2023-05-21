@@ -1,0 +1,19 @@
+What is LangChain?
+LangChain is a powerful, open-source framework designed to help you develop applications powered by a language model, particularly a large language model (LLM).
+It goes beyond standard API calls by being data-aware and agentic, enabling connections with various data sources for richer, personalized experiences. It can also empower a language model to interact dynamically with its environment.
+LangChain streamlines the development of diverse applications, such as chatbots, Generative Question-Answering (GQA), and summarization. By “chaining” components from multiple modules, it allows for the creation of unique applications built around an LLM.
+
+Components of Langchain
+
+Large Language Models and APIs
+LangChain supports language models, including those from prominent AI platforms like OpenAI, which is the company behind the revolutionary chatbot ChatGPT. These models are the foundation for creating powerful, language-driven applications.
+LangChain provides an application programming interface (APIs) to access and interact with them and facilitate seamless integration, allowing you to harness the full potential of LLMs for various use cases.
+
+Framework and Libraries
+The LangChain framework consists of an array of tools, components, and interfaces that simplify the development process for language model-powered applications.
+It offers Python libraries to help streamline rich, data-driven interactions with the AI models by chaining different components together.
+
+Some advantages of the LangChain framework include the following:
+Efficient integration with popular AI platforms such as OpenAI and Hugging Face
+Access to language-driven data-aware applications by connecting the models to other data sources
+Agility through enabling a language model to interact dynamically with their environment
